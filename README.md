@@ -6,12 +6,20 @@ A request to install software is received via a change activity.
 
 The request will detail the following:
 
+
 a) The software to be installed
+
 b) The requester's name
+
 c) The intended recipient (if they are not the requester)
+
 d) The targeted device for the install
+
 e) A link to the location of the software to be installed
+
 f) Any specific instructions required for the install 
+
+
 
 For each request where a licence key is required for the software this is delivered into the Teams channel OG-IOG-Software Licences for Installs. An entry will be made by the ITAM team referencing the change activity ticket and providing the licence key.
 
